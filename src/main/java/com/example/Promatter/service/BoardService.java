@@ -1,7 +1,7 @@
-package com.example.board.service;
+package com.example.Promatter.service;
 
-import com.example.board.domain.Board;
-import com.example.board.repository.BoardRepository;
+import com.example.Promatter.domain.Board;
+import com.example.Promatter.repository.BoardRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
