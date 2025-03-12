@@ -22,6 +22,10 @@ public class Board {
     
     private String author;
     
+    private String imageUrl;  // 이미지 파일의 저장 경로
+    
+    private String originalImageName;  // 원본 이미지 파일명
+    
     private LocalDateTime createdDate;
     
     private LocalDateTime modifiedDate;
